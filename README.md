@@ -46,7 +46,7 @@ I'm a software enthusiast with a love for problem-solving and creative projects.
   </a>
 </p>
 ## Achievements
-* NPTEL  Certificate(IOT)
+ - NPTEL  Certificate(IOT).
 
 ## Contact
 
