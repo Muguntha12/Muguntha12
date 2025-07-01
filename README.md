@@ -7,7 +7,8 @@ I'm a software enthusiast with a love for problem-solving and creative projects.
 ## Skills and Technologies
 
 - Web Development: -HTML , CSS.
-- Programming Languages: - Java , C , Python.
+- Programming Languages: - Java.
+- Data base: - Java.
 - Multimedia: -  Adobe Photoshop.
 - Other Tools: - GitHub, Visual Studio Code (VS Code).
   
@@ -48,6 +49,8 @@ I'm a software enthusiast with a love for problem-solving and creative projects.
 
 ## Achievements
 - NPTEL  Certificate(IOT).
+-  NPTEL  Certificate(Cloud Computing).
+
 
 ## Contact
 
