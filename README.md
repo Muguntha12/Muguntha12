@@ -1,65 +1,87 @@
 ---
-# Hi there! 👋 I'm MUGUNTHAN
+# 👋 Hello, I'm **MUGUNTHAN**
 
-Welcome to my GitHub profile! I'm passionate about web development, programming, and multimedia. Let me introduce myself and share my skills and projects with you.
-I'm a software enthusiast with a love for problem-solving and creative projects. My journey in the tech world has been exciting, and I'm always eager to learn and explore new technologies.
+Welcome to my GitHub!  
+I’m passionate about **web development**, **programming**, and **multimedia**. Here’s a little bit about me, my skills, and my projects.  
+I’m a software enthusiast who loves solving problems and building creative solutions. I’m always eager to learn new technologies and grow.
 
-## Skills and Technologies
+---
 
-- Web Development: -HTML , CSS.
-- Programming Languages: - Java.
-- Data base: - Java.
-- Other Tools: - GitHub, Visual Studio Code (VS Code).
-  
-## Known Languages
+## 🚀 Skills & Technologies
+
+| Area             | Technologies                                  |
+|------------------|----------------------------------------------|
+| **Web Development** | `HTML`, `CSS`                               |
+| **Programming**     | `Java`                                      |
+| **Database**        | `MySQL`                                     |
+| **Tools**           | `GitHub`, `Visual Studio Code (VS Code)`   |
+
+---
+
+## 🌐 Known Languages
+
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" />
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" />
   </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50" />
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" />
   </a>
 </p>
 
-## Github Stats
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Muguntha12&theme=vision-friendly-dark&hide_border=false" alt="Muguntha12" />.
+---
 
-### Other Skills
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muguntha12&theme=radical&hide_border=false" alt="Muguntha12" />
+</p>
+
+---
+
+## 🎨 Other Skills & Tools
 
 <p align="left">
   <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="premierepro" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="Adobe Premiere Pro" width="45" height="45" />
   </a>
   <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" alt="aftereffects" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" alt="Adobe After Effects" width="45" height="45" />
   </a>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="Adobe Photoshop" width="45" height="45" />
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="45" height="45" />
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="45" height="45" />
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="45" height="45" />
   </a>
 </p>
 
-## Achievements
-- NPTEL  Certificate(IOT).
--  NPTEL  Certificate(Cloud Computing).
+---
 
+## 🏆 Achievements
 
-## Contact
+- **NPTEL Certificate** in Internet of Things (IoT)  
+- **NPTEL Certificate** in Cloud Computing
 
-Feel free to reach out to me at mugu897@gmail.com. Let's connect and collaborate!
+---
+
+## 📫 Get In Touch
+
+Feel free to connect with me:  
+📧 **mugu897@gmail.com**
+
+Let's collaborate and create something amazing! 🚀
 
 ---
